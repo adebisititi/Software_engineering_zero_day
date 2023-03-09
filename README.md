@@ -1,1 +1,1 @@
-### This is the readme file for ALX
+### This is the beginning of my journey as a SOFTWARE ENGINEER.
